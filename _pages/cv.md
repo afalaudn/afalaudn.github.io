@@ -17,6 +17,6 @@ Skills
 ======
 * Python, C/C++
 * TensorFlow
-* Arduino, Raspberry Pi, Nvidia Jetson
+* Arduino, Raspberry Pi, Nvidia Jetson Nano
 
 

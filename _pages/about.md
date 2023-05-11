@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student at Telkom University.
-
-My research interests lies on applied machine learning, signal processing and systems.
+* I am a final year undergraduate student at Telkom University.
+* My research interests lies on applied machine learning, signal processing and systems.

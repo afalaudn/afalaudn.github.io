@@ -11,7 +11,7 @@ redirect_from:
 
 # PDF Viewer
 
-<iframe src="Oktober23_CV_Afif Alaudin.pdf" width="100%" height="600px"></iframe>
+<iframe src="/data/cv.pdf" width="100%" height="600px"></iframe>
 
 
 

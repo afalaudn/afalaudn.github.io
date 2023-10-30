@@ -9,14 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Electrical Engineering, Telkom University, 2023 (expected)
-  
-Skills
-======
-* Python, C/C++
-* TensorFlow
-* Arduino, Raspberry Pi, Nvidia Jetson Nano
+# PDF Viewer
+
+<iframe src="Oktober23_CV_Afif Alaudin.pdf" width="100%" height="600px"></iframe>
+
 
 

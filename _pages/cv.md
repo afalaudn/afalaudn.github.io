@@ -9,9 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-# PDF Viewer
-
-<iframe src="/data/cv.pdf" width="100%" height="600px"></iframe>
-
 
 

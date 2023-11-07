@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-* Fresh graduate student from Telkom University.
-* My research interests lies on applied machine learning, signal processing and systems.
+* Fresh graduate from Telkom University.
+* My research interests lies on applied machine learning, computer architecture and systems.
+* Open for remote research opportunity in computer science.

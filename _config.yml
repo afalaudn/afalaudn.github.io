@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Afif Alaudin"
-  avatar           : "fotoafif_kemejahijau.png"
+  avatar           : "data/fotoafif_kemejahijau.png"
   bio              : "Graduate from the electrical engineering department at Telkom University"
   location         : "Batam, Indonesia"
   employer         :
